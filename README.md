@@ -19,6 +19,9 @@
 ## 수학
 * 고등학교 수학 개념 총 정리
   * https://m.blog.naver.com/mathfreedom/222031319575
-* 
  
+ 
+## INFRA
+* NginX 성능 향상을 위한 설정 최적화
+  * https://wikidocs.net/223839
 
